@@ -1,0 +1,3 @@
+Merge "../input/U_channel.msh";
+Merge "./out_u0.msh";
+Merge "./opti_u0.geo";
